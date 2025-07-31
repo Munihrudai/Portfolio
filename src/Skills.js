@@ -7,10 +7,7 @@ const technicalSkills = [
   { name: 'Quickly Learns New Tools', icon: '⚡' },
   { name: 'Generative AI (Basic)', icon: '🤖' },
   { name: 'Microsoft Excel', icon: '📊' },
-  { name: 'Project Documentation and Report Writing', icon: '📝' },
-  { name: 'Technical Team Collaboration', icon: '🤝' },
   { name: 'Problem Solving', icon: '🧩' },
-  { name: 'Time Management', icon: '⏰' },
 ];
 
 const softSkills = [
