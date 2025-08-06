@@ -27,7 +27,7 @@ const certificates = [
     mode: 'Online',
     date: '4th AUG 2025',
     type: 'Quiz',
-    link: 'EXCEL.jpeg',
+    link: 'Excel.pdf',
   },
   {
     event: 'INNOVARC 25',
