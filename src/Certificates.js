@@ -20,14 +20,14 @@ const certificates = [
     mode: 'Online',
     date: '13 MAY 2024',
     type: 'WorkShop',
-    link: '/flipkart.jifi',
+    link: 'Certificate.pdf',
   },
   {
     event: 'Microsoft Excel',
     mode: 'Online',
     date: '4th AUG 2025',
     type: 'Quiz',
-    link: 'MSEXCEL.jpeg',
+    link: 'EXCEL.jpeg',
   },
   {
     event: 'INNOVARC 25',
