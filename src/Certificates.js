@@ -26,8 +26,8 @@ const certificates = [
     event: 'Microsoft Excel',
     mode: 'Online',
     date: '4th AUG 2025',
-    type: 'Quiz',
-    link: 'Excel.pdf',
+    type: 'Course',
+    link: 'public/Excel.pdf',
   },
   {
     event: 'INNOVARC 25',
