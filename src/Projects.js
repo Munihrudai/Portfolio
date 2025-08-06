@@ -36,6 +36,20 @@ const projects = [
     link: 'https://example.com/career-guidance',
     linkLabel: 'View Demo',
   },
+   {
+    title: 'Personal Finance Manager ',
+    images: ['Ed.png', 'Ed2.png'],
+    description: 'Developed a Java-based tool with Firebase integration for income and expense tracking, CSV export.',
+    link: 'https://github.com/Munihrudai/Personal-Finance-Manager-Budget-Analyzer-Java-',
+    linkLabel: 'View Demo',
+  },
+   {
+    title: 'Daily Mate Web App',
+    images: ['Ed.png', 'Ed2.png'],
+    description: 'A diary and task manager web app with real-time Firebase database, authentication, alerts, and notes.',
+    link: 'https://github.com/Munihrudai/DailyMate',
+    linkLabel: 'View Demo',
+  },
 ];
 
 function Projects() {
