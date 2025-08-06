@@ -16,18 +16,18 @@ const certificates = [
     link: '/it.jfif',
   },
   {
-    event: 'E-Commerce & Tech Quiz of Flipkart GRiD 6.0',
+    event: 'Power BI',
     mode: 'Online',
     date: '13 MAY 2024',
-    type: 'Tech Quiz',
+    type: 'WorkShop',
     link: '/flipkart.jifi',
   },
   {
-    event: 'ORACLE',
+    event: 'Microsoft Excel',
     mode: 'Online',
-    date: '17 DEC 2023',
+    date: '4th AUG 2025',
     type: 'Quiz',
-    link: 'oracle.jpeg',
+    link: 'MSEXCEL.jpeg',
   },
   {
     event: 'INNOVARC 25',
@@ -63,6 +63,20 @@ const certificates = [
     date: '29 APRIL 2025',
     type: 'Paper Presentation',
     link: 'Scopus.pdf',
+  },
+   {
+    event: 'E-Commerce & Tech Quiz of Flipkart GRiD 6.0',
+    mode: 'Online',
+    date: '13 MAY 2024',
+    type: 'Tech Quiz',
+    link: '/flipkart.jifi',
+  },
+  {
+    event: 'ORACLE',
+    mode: 'Online',
+    date: '17 DEC 2023',
+    type: 'Quiz',
+    link: 'oracle.jpeg',
   },
 ];
 
